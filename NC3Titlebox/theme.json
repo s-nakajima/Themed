@@ -1,0 +1,27 @@
+{
+    "name": "NC3Titlebox",
+    "description": "NetCommons3 Titleboxテーマです",
+    "homepage" : "http://www.netcommons.org",
+    "authors": [
+        {
+            "name":     "NetCommons Community",
+            "homepage": "https://github.com/NetCommons3/Auth/graphs/contributors"
+        }
+    ],
+    "keywords" : [
+
+    ],
+    "dependencies": {
+        "bootstrap":         "~3.1",
+        "jquery":      "~2.1",
+        "NetCommons" : "3.0"
+    },
+    "version": "0.1",
+    "licenses" : [
+        {
+          "type" : "NetCommons3 LICENSE",
+          "url" : "https://github.com/NetCommons3/NetCommons3/blob/master/license.txt"
+        }
+    ]
+
+}
