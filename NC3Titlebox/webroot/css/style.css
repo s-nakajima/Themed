@@ -65,7 +65,8 @@ main.container, main.container-fluid {
   font-size: 9px;
 }
 
-.blogs_blogTitle {
+.blogs_blogTitle,
+.cabinets_cabinetTitle {
 	color: #777;
 	font-size: 20.25px;
 	font-weight: 400;
